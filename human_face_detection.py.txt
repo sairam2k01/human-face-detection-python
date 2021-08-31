@@ -1,5 +1,5 @@
 # This code is used to identify the faces using python
-# pre requisites: must have to download python and cv2 files to your OS 
+# pre requisites: must have to download python and OpenCV files to your OS 
 # OR download python support applications like jupiter or anaconda3
 #This code need to access your camera. Cause the face is detected while your camera is active.
 
